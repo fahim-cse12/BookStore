@@ -5,3 +5,5 @@
 /.vs
 /BookStore.Web/.vs/BookStore.Web/v16
 /BookStore.Web/BookStore.Web/obj
+/BookStore.Web/.vs/BookStore.Web/config
+/BookStore.Web/BookStore.Web/bin/Debug/netcoreapp3.1
